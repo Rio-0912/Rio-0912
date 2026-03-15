@@ -131,7 +131,7 @@ Hey there! I'm Rehan <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjE
 </table>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rio-0912&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Rio-0912&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rio-0912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
